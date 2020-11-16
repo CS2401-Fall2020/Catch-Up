@@ -63,7 +63,7 @@ December 6th at 11:59 pm
 ## How to submit?
 Submit on `GitHub`.
 
-Failing to follow submission instructions and guidelines will result in up to 15 points off your overall grade in this lab. So please pay attention. 
-Additionally, your markdown file is expected to be neat and clear. Failing to do so will result in up to 15 points off. On the other hand, extra neat and clear work will be rewarded by up to 5 extra points.
+Failing to follow submission instructions and guidelines will result in lost points in this lab. So please pay attention. 
+Additionally, your markdown file is expected to be neat and clear. Failing to do so will result in a loss in points. On the other hand, extra neat and clear work will be rewarded.
 
 
